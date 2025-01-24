@@ -1,0 +1,296 @@
+﻿KEY;Russian (Latin letters)
+action_notifications;Uvedomleniya
+action_settings;Nastroyki
+add_cargospace;Dobavit'
+alert_load_temp_message;Trebuyetsya temperatura gruza
+amount;kolichestvo
+bautrans_button_post_work;Posleduyushcheye robota
+bautrans_button_pre_work;Predvaritelnaya rabota
+bautrans_button_save_report;Sokhranit yezhednevnyy otchet
+bautrans_change_activity;Izmenit deystviye
+bautrans_change_status_while_driving_error;Izmeneniye statusa vo vremya vozhdeniya zapreshcheno
+bautrans_change_vehicle;Izmenit transportnoye sredstvo
+bautrans_confirm_daily_report;Hotite otpravit yezhednevnyi otchet?
+bautrans_confirm_postwork;Hotite sdelat posleduyusheye bronirovaniye?
+bautrans_confirm_prework;Hotite sdelat predvaritelnoye bronirovaniye?
+bautrans_error_missing_cost_center;Vvedite tsentr zatrat
+bautrans_error_missing_distance;Vvedite rasstoyaniye
+bautrans_error_missing_order;Vyberite zakaz
+bautrans_error_missing_trailer;Vvedite pritsep
+bautrans_error_missing_vehicle_code;Vvedite kod transportnogo sredstva
+bautrans_input_adblue_missing;Vvedite adBlue
+bautrans_input_distance_missing;Vvedite rasstoyaniye
+bautrans_input_volume_missing;Vvedite litry
+bautrans_input_weight_missing;Vvedite ves
+bautrans_login;Vkhod
+bautrans_midnight_alert;Vse yeshche rabotayete?
+bautrans_show_orders;Zakazy
+bautrans_unsent_reports;Pozhaluysta, ne vyklyuchayte ustroystvo, yezhednevnyye otchety prodolzhayut otpravlyat'sya.
+button_cancel;Otmenit
+button_change_status;Status
+button_confirm;Potverzhdat
+button_dismiss;Otklonit'
+button_exception;Isklyucheniye
+button_finish;Zavershit
+button_info;Informatsiya
+button_send_anyway;Otpravit v lyubom sluchaye
+button_start;Nachat
+button_tacho_minute_activate;Aktivirovat
+button_tacho_minute_deactivate;Zapreshchat
+button_tour_accept;Prinyat
+button_tour_reject;Otklonit
+camerax_OK;OK
+camerax_retry;Povtorit
+cd_close_button;Vypekat
+cd_flash_button;Pereklyuchit vspyshku kamery
+cedole_anomaly_day_work_message;Vozmozhny otkloneniya pri ustanovke rabochego vremeni/gotovnosti boleye 2 chasov.\nUkazhite prichinu dannogo otkloneniya.
+condition_damaged;Povrezhdeno
+condition_normal;Normal'no
+condition_reclamation;Vosstanovleniye
+condition_rti_good;Horoshiy
+condition_rti_moderate;Umerennyy
+condition_rti_no_financial_value;Bespoleznyy
+condition_rti_unknown;Neizvestnyy
+csd_item_description;Opisaniye elementa
+csd_load_temp;Temperatura gruza
+csd_temp_range;Diapazon temperatur
+dialog_button_cancel_data_entry;Otmena
+dialog_button_confirm_with_exception;Podtverdit s isklyucheniyem
+dialog_button_ecmr_start_signing;Nachat podpisyvat
+dialog_button_log_off;Vyyti
+dialog_button_postpone;Otlozhit
+dialog_button_save_to_documents;Sokhranit v Dokumenty
+dialog_button_sign;Podpis
+dialog_button_sign_in;Zaregistrirovatsya
+dialog_button_try_again;Povtorit
+dialog_button_view_attachment;Prosmotr
+dialog_message_allowed_att_combined_size_reached;Nevozmozhno dobavit' yeshche odno vlozheniye. Dostignut predel'nyy razmer
+dialog_message_allowed_att_count_reached;Dostignut limit vlozheniy. Maksimal'no dopustimoye kolichestvo vlozheniy sostavlyayet %1$d
+dialog_message_change_language;Izmenit yazyk?
+dialog_message_change_status;Izmenit status na %1$s?
+dialog_message_confirm_arival;Podtverdit pribytiye na ostanovku?
+dialog_message_confirm_cancel_data_entry;Vy uvereny, chto hotite otmenit?
+dialog_message_confirm_departure;Podtverdit otpravleniye s etoy ostanovki?
+dialog_message_confirm_finish;Rabota zavershena?
+dialog_message_confirm_resume;Vozobnovit' rabotu?
+dialog_message_confirm_start;Nachat rabotu?
+dialog_message_confirm_suspend;Priostanovit rabotu?
+dialog_message_confirm_tour_finish;Zadachja zavershena?
+dialog_message_confirm_tour_start;Nachinaetsa zadache?
+dialog_message_container_selection;Podtverdit vybor konteynera
+dialog_message_delete_document;Vy uvereny, chto khotite udalit etot dokument?
+dialog_message_delete_route;Vy uvereny, chto hotite udalit etot marshrut?
+dialog_message_delete_stop;Eta ostanovka budet udalena. Vy uvereny?
+dialog_message_navigation_app_not_found;Nevozmozhno zapustit navigatsiyu. Navigatsionnoye prilozheniye ne ustanovleno.
+dialog_message_no_tour_documents;Dokument zadanije, kotoryy vy sobirayetes otpravit, ne soderzhit vlozheniy. Otpravit v lyubom sluchaye?
+dialog_message_start_bcr_navigation;Otpravit marshrut v PTV Truck Navigator?
+dialog_message_trailer_selection;Podtverdite vybor pritsepa
+dialog_tacho_message;Planshet dolzhen byt v dok-stantsii dlya polucheniya dannykh takhometra. Pozhaluysta, pomestite planshet v dok-stantsiyu.
+dialog_tacho_title;Dannye takhometra nedostupny
+dialog_title_attachment_save;Vlozheniye
+dialog_title_confirm;Podtverzhdat?
+dialog_title_data_entry;Formy
+dialog_title_delete_document;Udalit dokument?
+dialog_title_delete_message;Udalit soobshenie?
+dialog_title_delete_route;Udalit marshrut?
+dialog_title_error;oshibka
+dialog_title_no_tour_documents;Vnimaniye!
+dialog_title_start_bcr_navigation;Marshrut
+dialog_tour_refuse;Otkazatsa
+dialog_tour_select;Vybrat
+doc_type_delivery_note;nakladnaya
+doc_type_other;Drugoy
+doc_type_pallet_receipt;Palletnaya nakladnaya
+doc_type_reclamation_log;Zhaloba
+document_description;Opisaniye dokumenta
+document_number;Nomer dokumenta
+driver_already_logged_in;Voditel uzhe avtorizovan
+driver_authentication;Registratsiya
+driver_no_card;Net tacho karty
+driver_not_present;Voditel' otsutstvuyet
+driver_not_present;Ni odin voditel ne zaregistrirovan
+driver_unknown;Neizvestny voditel
+empty;Pusto
+error_load_temp;Ustanovit' temperaturu gruza
+froeschl_clear_signature;Otmena
+froeschl_delivery_note_button_cancel;Otmena
+froeschl_delivery_note_button_save;Sohranyat
+froeschl_label_crane_work;Vypolneny kranovyye raboty
+froeschl_label_date;Data
+froeschl_label_drive_with_other_trailer;Puteshestvuyte s drugim pritsepom
+froeschl_label_drive_with_own_trailer;Puteshestvuyte so svoim pritsepom
+froeschl_label_driver;voditel
+froeschl_label_eta_home;Primernoye vremya pribytiya domoy
+froeschl_label_invoice_other_trailer;Puteshestvuyte so drugim pritsepom
+froeschl_label_invoice_own_trailer;Puteshestvuyte so svoim pritsepom
+froeschl_label_note;zamechaniye
+froeschl_label_pause_duration;Prodolzhitelnost pereryva
+froeschl_label_press_for_pause;Nazhmite, chtoby sdelat pauzu
+froeschl_label_sign_here;Podpis zdes
+froeschl_label_tour_start;Nachat zadanije
+froeschl_mark_location;Sokhranit lokaciju?
+froeschl_save_signature;Sokhranit podpis
+froeschl_signature;Podpis
+hint_compose_message;Napisat soobshenie
+hint_item_description;Opisaniye tovara
+hint_write_description;Vvedite opisaniye
+image_resizing_text;Izmeneniye razmera izobrazheniya
+label_additional_info;Dopolnitel'naya informatsiya
+label_cargo_condition;Sostoyaniye gruza
+label_city;Gorod
+label_company;Kompaniya
+label_contact_name;Imya
+label_container;konteyner
+label_containers;konteyner
+label_costcenter;Tsentr zatrat
+label_country;Strana
+label_department;Otdel
+label_driver;voditel
+label_exception_description;Opisaniye isklyucheniya
+label_exchange;Izmenyat
+label_from;Ot kogo:
+label_house_number;Nomer doma
+label_input_comment;Kommentariy
+label_input_distance;Rasstoyaniye
+label_input_volume;Litr
+label_input_weight;Ves [kg]
+label_order_number;Nomer zakaza
+label_packaging;Upakovka
+label_phone_1;Nomer telefona 1
+label_phone_2;Nomer telefona 2
+label_phone_3;Nomer telefona 3
+label_post_code;Pochtovyy indeks
+label_scan_status;Status skanirovaniya
+label_select_worker_position;Vyberite dolzhnost rabotnika
+label_status;status
+label_street;Ulitsa
+label_to;Komu:
+label_trailer;Pritsep
+label_trailer;polupritsep
+label_vehicle_code;Kod transportnogo sredstva
+menu_bautrans_coworkers;Kollegi
+menu_bautrans_daily_report;Yezhednevnyy otchet
+menu_bautrans_info;Deystviya
+menu_contacts;Kontakty
+menu_documents;Dokumenty
+menu_inbox;Soobsheniya
+menu_info;Info
+menu_language;Yazyk
+menu_navigation;Navigatsiya
+menu_routes;Marshruty
+menu_tacho;Tachograf
+menu_tour;Zadacha
+message_ecmr_not_logged_in;Polzovatel ne voshel v sistemu ili srok seansa istek.
+message_ecmr_start_signing;Nachat podpisyvat dokument eCMR? Yesli dokument uzhe podpisan, pozhaluysta, podtverdite s isklyucheniyem.
+message_fill_data_entry;Pozhaluysta, zapolnite formu
+message_missing_transfollow_app;Prilozheniye Transfollow ne ustanovleno.
+message_unable_to_sign_ecmr;Oshibka podpisaniya eCMR. Pozhaluysta, poprobuyte yeshche raz. Yesli oshibka ne ischeznet, ​​podtverdite oshibku.
+no;Net 
+note;Primechaniye
+notification_deleted_tour;Zadache udalena!
+notification_dialog_header;Uvedomleniya
+notification_new_document;Poluchen novyy dokument.
+notification_new_message;Polucheno novoye soobshcheniye
+notification_new_route;Poluchen novyy marshrut
+notification_new_tour_message;Polucheno novoye zadaniye
+notification_new_tour_title;Novoye zadaniye
+notification_updated_tour;Zadaniye obnovlena
+prompt_hold_camera_steady;Derzhite kameru nepodvizhno na mgnoveniye
+prompt_move_camera_closer;Podoydite blizhe k poisku
+prompt_point_at_a_barcode;Navedite kameru na shtrikh-kod
+prompt_searching;"Poisk&#8230;"
+remote_command_relay_error;Oshibka pri otpravke dannykh na podklyuchennoye ustroystvo
+rfid_login_not_allowed;RFID-vkhod ne razreshen
+snackbar_activity_not_found;Nevozmozhno otkryt fail
+snackbar_navi_point_not_found;Nevozmozhno pereyti k etoy tochke.
+snackbar_text_attachemnt_save_error;Nevozmozhno sokhranit' vlozheniye
+snackbar_text_attachemnt_saved;Vlozheniye sokhraneno v Dokumenty
+sscc_present_on_a_different_cargo;Dostupno na drugikh gruzakh
+sscc_status_code_missing;Kod otsutstvuyet
+sscc_status_code_wrong;Nepravilnyy kod
+sscc_status_manual;ruchnoy
+sscc_status_new_manual;Novyy vvod vruchnuyu
+sscc_status_new_scan;Novoye skanirovaniye
+sscc_status_scan;skanirovat
+sscc_status_unknown;Neizvestnyy
+tacho_duty;Drugaja Rabota
+tacho_minute;Tacho Minuta
+tacho_status_available;Dostupno
+tacho_status_drive;Yezda
+tacho_status_rest;Otdych
+tacho_status_work;Rabota
+text_attachments;Vlozheniya
+text_docking_station_failed;Ustroystvo ne sopryazheno s dok-stantsiyey
+text_docking_station_success;Ustroystvo uspeshno sopryazheno s dok-stantsiyey
+text_dtco_continuous_driving;Nepreryvnoye vozhdeniye
+text_dtco_daily_driving;Yezhednevnoye vozhdeniye
+text_dtco_duty_daily_limit;Dnevnoy limit
+text_dtco_duty_day_end;Vozmozhnyi konets rabochego dnya: %1$s
+text_dtco_duty_weekly_limit;Nedelnyi limit
+text_dtco_duty_weel_end;Vozmozhnyi konets rabochei nedelji: %1$s
+text_dtco_extended_driving_available;Dostupno prodlennoye vozhdeniye: %1$s
+text_dtco_reduced_weekly_rest;Sokrashchennyy yezhenedelnyi otdykh: %1$s
+text_dtco_remaining_drive_info;Vozmozhnyy konets vozhdeniya: %1$s
+text_dtco_rest;Pauza
+text_dtco_rest_daily_info;Vozmozhnoye zaversheniye yezhednevnogo otdykha: %1$s
+text_dtco_rest_min_daily;Minimalnyi yezhednevnyiy otdykh
+text_dtco_rest_min_weekly;Minimalnyi yezhenedelnyi otdykh
+text_dtco_rest_reduced_daily;Sokrashchennyi yezhednevnyi otdykh: %1$s
+text_dtco_rest_weekly_info;Vozmozhnoye zaversheniye yezhenedelnogo otdykha: %1$s
+text_dtco_switch_extend_driving;Uvelichit vremya vozhdeniya
+text_dtco_switch_reduce_daily_rest;Sokratit yezhednevnyi otdykh
+text_dtco_switch_reduce_weekly_rest;Sokratit yezhenedelnyi otdykh
+text_dtco_two_week_driving;Dvukhnedelnoye vozhdeniye
+text_dtco_weekly_driving;Yezhenedelnoye vozhdeniye
+title_activity_send_message;Otpravit novoye soobshcheniye
+title_ecmr_cargo_updated;elektronnaya CMR obnovlena
+title_tacho_drive_time;Vremya vozhdeniya
+tour_active_empty_tetxt;NET AKTIVNOY ZADACHI
+tour_list_complete_text_1;Zavershenyi
+tour_list_complete_text_2;Vy uspeshno zavershili vse tury
+tour_list_empty_text_1;PUSTOY SPISOK
+tour_list_empty_text_2;Vash spisok zadanyi pustoi
+tours_action_bar_action;Tury - Deystviye
+tours_action_bar_active;Zadachi aktivny
+tours_action_bar_edit_cargo;Redaktirovat gruz
+tours_action_bar_edit_cargospace;Redaktirovat' gruzovoye prostranstvo
+tours_action_bar_finished;Zadachi vypolneny
+tours_action_bar_info;Zadachi - informatsiya
+tours_action_bar_marcolocation;Zadachja - Makrolokatsiya
+tours_action_bar_pending;Zadachi nakhodyatsya na rassmotrenii
+tours_action_bar_sscc_codes;Kody SSCC
+tours_action_bar_stop;Tury - Ostanovka
+tours_bottom_menu_active;Aktivnyy
+tours_bottom_menu_finished;Zakonchennyy
+tours_bottom_menu_pending;V ozhidanii
+tours_bottom_menu_work_overview;Informatsiya
+tours_list_item_finished;Zakonchennyi
+tours_list_item_new;Novyi
+tours_list_item_updated;Obnovleno
+trailco_container_not_set;Net konteynera
+trailco_couple;Podkliuchit
+trailco_load;Pogruzka
+trailco_search;Iskat
+trailco_trailer_not_set;Net pricepa
+trailco_uncouple;Otklyuchit
+trailco_unload;Razgruzka
+type;Tip
+unread_messages_count;Novye soobshcheniya: %1$d
+urgent_messages_count;Srochnyie soobshcheniya: %1$d
+wrkplc_check_wrkplc_as_driver;Zaregistrirovatsya kak voditel
+wrkplc_hint_search_workplcae;Poisk rabochego mesta
+wrkplc_label_active_workers;Aktivnyye sotrudniki
+wrkplc_label_coffee_break;Kofe-breyk
+wrkplc_label_coworkers;Sotrudniki
+wrkplc_label_finish_work;Konets raboty
+wrkplc_label_info;informatsiya
+wrkplc_label_info_subtext;Dopolnitelnaya informatsiya
+wrkplc_label_login_with_pin;Voydite s PIN-kodam
+wrkplc_label_logoff;Vyyti
+wrkplc_label_logon;Zaregistrirovatsya
+wrkplc_label_navigation;navigatsiya
+wrkplc_label_navigation_subtext;Otkryt navigatsiyu
+wrkplc_label_pause;pauza
+wrkplc_label_start_work;Nachalo raboty
+wrkplc_label_wrkplc_info;Informatsiya o rabochem meste
+yes;Da
